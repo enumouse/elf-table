@@ -1,5 +1,5 @@
 # Elf-Table
-A super simple elf header viewer.
+A super simple elf header viewer. This project is a little bit rushed, so do not expect clean code :(
 
 ![screenshot](.github/screenshot.png)
 
